@@ -4,7 +4,7 @@ let idade = 26
 console.log("nome: " + nome + "\n" + "idade: " + idade)
 
 
-//Operações Aritméticas:
+//Operações Aritméticas::
 //Crie duas variáveis com valores numéricos e realize as operações de soma, subtração, multiplicação e divisão entre elas. Mostre os resultados no console.
 let x = 10
 let y = 5
